@@ -1,0 +1,14 @@
+.addbox {
+    width: 650px;
+   
+    box-sizing: border-box;
+    background: lightblue;
+    color: black;
+    top: 40%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-40%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 7%;
+}
